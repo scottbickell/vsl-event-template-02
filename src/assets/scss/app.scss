@@ -10,6 +10,8 @@
     font-size: 12px;
 }
 
+
+
 p.view-online {
     background: $body-background;
     color: #999999;
@@ -141,5 +143,8 @@ sup {
     }
     .rep-photo {
         width: 96px !important;
+    }
+    .event-icons {
+        max-width: 80px !important;
     }
 }
